@@ -1,0 +1,108 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=25fc79b1_002D754a_002D4646_002Da5a7_002D810c9bfb2e37/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Additem_ReturnCartTotalPriceCannotBeMoreThanFiveHundredThousand #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Or&gt;
+    &lt;TestAncestor&gt;
+      &lt;TestId&gt;NUnit3x::DEFF4009-1FAB-4392-80B6-707E2DC5C00B::net8.0::ShoppingCart.Application.UnitTests.Common.Commands.AddItemTests&lt;/TestId&gt;
+      &lt;TestId&gt;NUnit3x::DEFF4009-1FAB-4392-80B6-707E2DC5C00B::net8.0::ShoppingCart.Application.UnitTests.Common.Commands.DisplayCartTests.AddItem_ReturnSuccess&lt;/TestId&gt;
+      &lt;TestId&gt;NUnit3x::DEFF4009-1FAB-4392-80B6-707E2DC5C00B::net8.0::ShoppingCart.Application.UnitTests.Common.Commands.ResetCartTests.AddItem_ReturnSuccess&lt;/TestId&gt;
+      &lt;TestId&gt;NUnit3x::DEFF4009-1FAB-4392-80B6-707E2DC5C00B::net8.0::ShoppingCart.Application.UnitTests.Common.Commands.AddVasItemToItemTests.AddVasItemToItem_ReturnSuccess&lt;/TestId&gt;
+      &lt;TestId&gt;NUnit3x::DEFF4009-1FAB-4392-80B6-707E2DC5C00B::net8.0::ShoppingCart.Application.UnitTests.Common.Commands.AddVasItemToItemTests.AddVasItemToItem_ReturnItemNotFound&lt;/TestId&gt;
+      &lt;TestId&gt;NUnit3x::DEFF4009-1FAB-4392-80B6-707E2DC5C00B::net8.0::ShoppingCart.Application.UnitTests.Common.Commands.AddVasItemToItemTests.AddVasItemToItem_ReturnVasItemPriceCannotBeGreaterThanItemPrice&lt;/TestId&gt;
+      &lt;TestId&gt;NUnit3x::DEFF4009-1FAB-4392-80B6-707E2DC5C00B::net8.0::ShoppingCart.Application.UnitTests.Common.Commands.AddVasItemToItemTests.AddVasItemToItem_ReturnVasItemCannotBeAddedToThisItemCategory&lt;/TestId&gt;
+      &lt;TestId&gt;NUnit3x::DEFF4009-1FAB-4392-80B6-707E2DC5C00B::net8.0::ShoppingCart.Application.UnitTests.Common.Commands.AddVasItemToItemTests.AddVasItemToItem_ReturnItemCannotBeAddedToCartWithDifferentProperties&lt;/TestId&gt;
+      &lt;TestId&gt;NUnit3x::DEFF4009-1FAB-4392-80B6-707E2DC5C00B::net8.0::ShoppingCart.Application.UnitTests.Common.Commands.AddVasItemToItemTests.AddVasItemToItem_ReturnYouCanAddMaxThreeVasItemsToCart&lt;/TestId&gt;
+      &lt;TestId&gt;NUnit3x::DEFF4009-1FAB-4392-80B6-707E2DC5C00B::net8.0::ShoppingCart.Application.UnitTests.Common.Commands.AddVasItemToItemTests.AddVasItemToItem_ReturnYouCanAddMaxThirtyItemsToCart&lt;/TestId&gt;
+    &lt;/TestAncestor&gt;
+    &lt;ProjectFile&gt;DEFF4009-1FAB-4392-80B6-707E2DC5C00B/d:Common/d:Commands/f:AddVasItemToItemTests.cs&lt;/ProjectFile&gt;
+  &lt;/Or&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=2f557a8c_002D6be5_002D4361_002D960b_002D35f6c996a01b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="AddVasItemToItem_ReturnYouCanAddMaxThreeVasItemsToCart" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::DEFF4009-1FAB-4392-80B6-707E2DC5C00B::net8.0::ShoppingCart.Application.UnitTests.Common.Commands.AddVasItemToItemTests.AddVasItemToItem_ReturnYouCanAddMaxThreeVasItemsToCart&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::DEFF4009-1FAB-4392-80B6-707E2DC5C00B::net8.0::ShoppingCart.Application.UnitTests.Common.Commands.AddVasItemToItemTests.AddVasItemToItem_ReturnYouCanAddMaxThirtyItemsToCart&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=2ff0d681_002D41ce_002D448d_002D83fc_002Dd14ede9933f3/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="AddItem_ReturnSuccess #6" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::DEFF4009-1FAB-4392-80B6-707E2DC5C00B::net8.0::ShoppingCart.Application.UnitTests.Common.Commands.DisplayCartTests.AddItem_ReturnSuccess&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=53e3e8a5_002Da049_002D4df5_002Db1f1_002D39f17ff2b80e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="AddItem_ReturnSuccess #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::DEFF4009-1FAB-4392-80B6-707E2DC5C00B::net8.0::ShoppingCart.Application.UnitTests.Common.Commands.AddItemTests.AddItem_ReturnSuccess&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5560b636_002D06d1_002D48f4_002Daa4f_002Dd1002cffaf7e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="AddVasItemToItem_ReturnFailForVasCategoryId" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::DEFF4009-1FAB-4392-80B6-707E2DC5C00B::net8.0::ShoppingCart.Application.UnitTests.Common.Validations.AddVasItemToItemValidationTests&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::DEFF4009-1FAB-4392-80B6-707E2DC5C00B::net8.0::ShoppingCart.Application.UnitTests.Common.Validations.RemoveItemValidationTests.RemoveItem_ReturnSuccess&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::DEFF4009-1FAB-4392-80B6-707E2DC5C00B::net8.0::ShoppingCart.Application.UnitTests.Common.Validations.RemoveItemValidationTests.RemoveItem_ReturnFailForItemId&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::DC37FD87-552C-4613-9F16-1537CA522898::net8.0::ShoppingCart.Domain.UnitTests.ValueObjects.CartTests.Card_CategoryPromotionDiscount_ReturnDiscount&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::DC37FD87-552C-4613-9F16-1537CA522898::net8.0::ShoppingCart.Domain.UnitTests.ValueObjects.CartTests.Card_TotalPricePromotionDiscount_ReturnDiscount&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::DEFF4009-1FAB-4392-80B6-707E2DC5C00B::net8.0::ShoppingCart.Application.UnitTests.Common.Services.DiscountServiceTests.GetDiscount_ReturnSuccess&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::DEFF4009-1FAB-4392-80B6-707E2DC5C00B::net8.0::ShoppingCart.Application.UnitTests.Common.Commands.ResetCartTests.AddItem_ReturnSuccess&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=6cff103f_002Dc5f9_002D4ce2_002D8190_002De8f85ac07cdb/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from AddItemTests.cs #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;ProjectFile&gt;DEFF4009-1FAB-4392-80B6-707E2DC5C00B/d:Common/d:Commands/f:AddItemTests.cs&lt;/ProjectFile&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=829d7b7c_002D0e23_002D4d00_002D8b56_002D92f3d8870199/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="AddItem_ReturnSuccess" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::DEFF4009-1FAB-4392-80B6-707E2DC5C00B::net8.0::ShoppingCart.Application.UnitTests.Common.Commands.AddItemTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8aac3483_002D7f05_002D442f_002D8464_002D2df6e3a23510/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="AddItem_ReturnSuccess #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::DEFF4009-1FAB-4392-80B6-707E2DC5C00B::net8.0::ShoppingCart.Application.UnitTests.Common.Commands.AddItemTests.AddItem_ReturnSuccess&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a3fdd204_002De3f1_002D4f12_002D8f37_002D835aeb49b86c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Additem_ReturnCartTotalPriceCannotBeMoreThanFiveHundredThousand" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::DEFF4009-1FAB-4392-80B6-707E2DC5C00B::net8.0::ShoppingCart.Application.UnitTests.Common.Commands.AddItemTests.Additem_ReturnCartTotalPriceCannotBeMoreThanFiveHundredThousand&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a50f9f94_002D52d0_002D42b3_002Db4d1_002D74e39c1b1be7/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from AddItemTests.cs" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;ProjectFile&gt;DEFF4009-1FAB-4392-80B6-707E2DC5C00B/d:Common/d:Commands/f:AddItemTests.cs&lt;/ProjectFile&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=bbecabb8_002D913b_002D4c7f_002D80d0_002Df036f2c8f732/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="AddVasItemToItem_ReturnYouCanAddMaxThirtyItemsToCart" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Or&gt;
+    &lt;Project Location="/Users/ShoppingCart/Desktop/ME/trendyol_new/ShoppingCart/tests/Application.UnitTests" Presentation="&amp;lt;tests&amp;gt;\&amp;lt;Application.UnitTests&amp;gt;" /&gt;
+    &lt;TestAncestor&gt;
+      &lt;TestId&gt;NUnit3x::DC37FD87-552C-4613-9F16-1537CA522898::net8.0::ShoppingCart.Domain.UnitTests.ValueObjects.CartTests.Card_TotalAmount_ReturnTotal&lt;/TestId&gt;
+    &lt;/TestAncestor&gt;
+  &lt;/Or&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d17b7cab_002Ddb9d_002D453f_002Dbb00_002Dc94773ebf67e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="AddItem_ReturnSuccess #5" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;ProjectFile&gt;DEFF4009-1FAB-4392-80B6-707E2DC5C00B/d:Common/d:Commands/f:AddItemTests.cs&lt;/ProjectFile&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e69c1d55_002De0b0_002D4494_002Db849_002D948325aeebe6/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Card_SellerPromotionDiscount_ReturnDiscount" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::DC37FD87-552C-4613-9F16-1537CA522898::net8.0::ShoppingCart.Domain.UnitTests.ValueObjects.CartTests.Card_SellerPromotionDiscount_ReturnDiscount&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::DC37FD87-552C-4613-9F16-1537CA522898::net8.0::ShoppingCart.Domain.UnitTests.ValueObjects.CartTests.Card_CategoryPromotionDiscount_ReturnDiscount&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::DC37FD87-552C-4613-9F16-1537CA522898::net8.0::ShoppingCart.Domain.UnitTests.ValueObjects.CartTests.Card_TotalAmount_ReturnTotal&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::DC37FD87-552C-4613-9F16-1537CA522898::net8.0::ShoppingCart.Domain.UnitTests.ValueObjects.CartTests.Card_TotalPricePromotionDiscount_ReturnDiscount&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::DEFF4009-1FAB-4392-80B6-707E2DC5C00B::net8.0::ShoppingCart.Application.UnitTests.Common.Validations.AddItemValidationTests.AddItem_ReturnSuccess&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::DEFF4009-1FAB-4392-80B6-707E2DC5C00B::net8.0::ShoppingCart.Application.UnitTests.Common.Validations.AddItemValidationTests.AddItem_ReturnFail&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::DEFF4009-1FAB-4392-80B6-707E2DC5C00B::net8.0::ShoppingCart.Application.UnitTests.Common.Validations.AddItemValidationTests.AddItem_ReturnSuccessForDigital&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::DEFF4009-1FAB-4392-80B6-707E2DC5C00B::net8.0::ShoppingCart.Application.UnitTests.Common.Validations.AddItemValidationTests.AddItem_ReturnFailForDigital&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::DEFF4009-1FAB-4392-80B6-707E2DC5C00B::net8.0::ShoppingCart.Application.UnitTests.Common.Validations.AddItemValidationTests.AddItem_ReturnFailForCategoryId&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::DEFF4009-1FAB-4392-80B6-707E2DC5C00B::net8.0::ShoppingCart.Application.UnitTests.Common.Validations.AddItemValidationTests.AddItem_ReturnFailForCategoryVatItem&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::DEFF4009-1FAB-4392-80B6-707E2DC5C00B::net8.0::ShoppingCart.Application.UnitTests.Common.Validations.AddItemValidationTests.AddItem_ReturnFailForItemId&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::DEFF4009-1FAB-4392-80B6-707E2DC5C00B::net8.0::ShoppingCart.Application.UnitTests.Common.Validations.AddItemValidationTests.AddItem_ReturnFailForQuantity&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::DEFF4009-1FAB-4392-80B6-707E2DC5C00B::net8.0::ShoppingCart.Application.UnitTests.Common.Validations.AddItemValidationTests.AddItem_ReturnFailForQuantityDigital&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::DEFF4009-1FAB-4392-80B6-707E2DC5C00B::net8.0::ShoppingCart.Application.UnitTests.Common.Validations.AddItemValidationTests.AddItem_ReturnFailForSellerId&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::DEFF4009-1FAB-4392-80B6-707E2DC5C00B::net8.0::ShoppingCart.Application.UnitTests.Common.Validations.AddItemValidationTests.AddItem_ReturnFailForSellerVatItem&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::DEFF4009-1FAB-4392-80B6-707E2DC5C00B::net8.0::ShoppingCart.Application.UnitTests.Common.Validations.AddVasItemToItemValidationTests.AddVasItemToItem_ReturnSuccess&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::DEFF4009-1FAB-4392-80B6-707E2DC5C00B::net8.0::ShoppingCart.Application.UnitTests.Common.Validations.AddVasItemToItemValidationTests.AddVasItemToItem_ReturnFailForItemId&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::DEFF4009-1FAB-4392-80B6-707E2DC5C00B::net8.0::ShoppingCart.Application.UnitTests.Common.Validations.AddItemValidationTests.AddItem_ReturnFailForPrice&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::DEFF4009-1FAB-4392-80B6-707E2DC5C00B::net8.0::ShoppingCart.Application.UnitTests.Common.Validations.AddItemValidationTests&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::DEFF4009-1FAB-4392-80B6-707E2DC5C00B::net8.0::ShoppingCart.Application.UnitTests.Common.Validations.AddVasItemToItemValidationTests.AddVasItemToItem_ReturnFailForVasItemId&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::DEFF4009-1FAB-4392-80B6-707E2DC5C00B::net8.0::ShoppingCart.Application.UnitTests.Common.Validations.AddVasItemToItemValidationTests.AddVasItemToItem_ReturnFailForVasCategoryId&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=eea62877_002D2202_002D4deb_002Dae06_002Dfe15808e9f7f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="AddItem_ReturnSuccess #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::DEFF4009-1FAB-4392-80B6-707E2DC5C00B::net8.0::ShoppingCart.Application.UnitTests.Common.Commands.AddItemTests.AddItem_ReturnSuccess&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

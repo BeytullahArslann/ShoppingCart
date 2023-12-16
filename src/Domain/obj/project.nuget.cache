@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "d7DDcUh+p08PfCZ7ntPcK2VBQyQfJZjerOyznU6Gaq7boVaFAx2WAhyJjXuC9LmIudG2yu2mf+QQiKK5gdliQA==",
+  "success": true,
+  "projectFilePath": "/Users/beytullaharslan/Desktop/ME/ShoppingCart/src/Domain/Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/beytullaharslan/.nuget/packages/mediatr/12.1.1/mediatr.12.1.1.nupkg.sha512",
+    "/Users/beytullaharslan/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/Users/beytullaharslan/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

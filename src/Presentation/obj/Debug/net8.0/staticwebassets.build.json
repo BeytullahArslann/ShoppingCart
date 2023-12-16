@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "YA1AmtCfIQUuhByXm4Q6GYsdLTS5xStPuYE4s2LlDXc=",
+  "Source": "ShoppingCart.Presentation",
+  "BasePath": "_content/ShoppingCart.Presentation",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ShoppingCart.Presentation/wwwroot",
+      "Source": "ShoppingCart.Presentation",
+      "ContentRoot": "/Users/beytullaharslan/Desktop/ME/ShoppingCart/src/Presentation/wwwroot/",
+      "BasePath": "_content/ShoppingCart.Presentation",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
